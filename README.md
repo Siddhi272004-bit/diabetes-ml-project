@@ -40,7 +40,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Access the web app at **http://127.0.0.1:5000/** in your browser.
+Access the web app at **https://diabetes-ml-project-uslyqxdtmhrgjzl6ph2tzp.streamlit.app/** in your browser.
 
 ## 📊 Model Performance
 The **ROC Curve** is used to evaluate the performance of the model.
